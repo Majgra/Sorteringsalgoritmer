@@ -1,0 +1,16 @@
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.csproj.AssemblyReference.cache
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.AssemblyInfoInputs.cache
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.AssemblyInfo.cs
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.exe
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.deps.json
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.runtimeconfig.json
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.runtimeconfig.dev.json
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.dll
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\ref\Sorteringsalgoritmer.dll
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\bin\Debug\net5.0\Sorteringsalgoritmer.pdb
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.dll
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\ref\Sorteringsalgoritmer.dll
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.pdb
+C:\Users\Hacker\Documents\Sorteringsalgoritmer\obj\Debug\net5.0\Sorteringsalgoritmer.genruntimeconfig.cache
